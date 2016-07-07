@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+	<name>T3 Framework (fa-IR)</name>
+	<packagename>T3-fa-IR</packagename>
+	<version>1.0.0</version>
+	<creationDate>JUN 2016</creationDate>
+	<author>Milad Safajuy</author>
+	<authorEmail>Miladsafa@gmail.com</authorEmail>
+	<authorUrl>http://www.t3-framework.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url></url>
+	<packager>JoomlArt</packager>
+	<packagerurl>https://github.com/t3framework/t3</packagerurl>
+	<description>
+		<![CDATA[
+		<div>
+			<h3>T3 Framework: Persian (fa-IR) Language Package</h3>
+			<h3>فریم ورک T3: به زبان فارسی (fa-IR)</h3>
+		</div>
+		]]>
+	</description>
+	<files>
+		<file type="language" client="site" id="t3-blank-fa-IR">tpl_t3_blank</file>
+		<file type="language" client="site" id="t3-bs3-blank-fa-IR">tpl_t3_bs3_blank</file>
+		<file type="language" client="administrator" id="t3-fa-IR">plg_system_t3</file>
+	</files>
+
+</extension>

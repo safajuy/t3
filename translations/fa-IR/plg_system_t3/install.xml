@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>T3 Framework (fa-IR)</name>
+	<tag>fa-IR</tag>
+	<version>1.0.0</version>
+	<creationDate>JUN 2016</creationDate>
+	<author>Milad Safajuy</author>
+	<authorEmail>miladsafa@gmail.com</authorEmail>
+	<authorUrl>http://www.t3-framework.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Persian translation for T3 Framework</description>
+	<files>
+		<filename>fa-IR.plg_system_t3.ini</filename>
+		<filename>fa-IR.plg_system_t3.j25.compat.ini</filename>
+		<filename>fa-IR.plg_system_t3.sys.ini</filename>
+
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
